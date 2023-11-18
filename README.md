@@ -34,5 +34,20 @@ Note that you need to protect the critical section of each of the operations. So
 Once you have implemented your producer and consumer functions, you have to create producer and consumer threads in your program. Do this in main(). Note: your program should take one argument: the number of consumer threads to create.
 
 ## Solution
+# customer-health-scores-to-sfdc
+Script to update the customer health scores in SFDC.
+Local usage:
+```
+export SUMO_ACCESS_ID=<SUMO_ACCESS_ID>
+export SUMO_ACCESS_KEY=<SUMO_ACCESS_KEY>
+export SUMO_API_URL=<SUMO_API_URL>
+export SFDC_USERNAME=<SFDC_USERNAME>
+export SFDC_PASSWORD=<SFDC_PASSWORD>
+export SFDC_TOKEN=<SFDC_TOKEN>
+python customer-health-scores-to-sfdc.py
+```
+# Deploying to k8s
+## Create docker image
+```
 
 
