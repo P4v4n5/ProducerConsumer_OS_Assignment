@@ -1,5 +1,6 @@
 # ProducerConsumer_OS_Assignment - COEN 283 HomeWork 2
 
+## Question
 Write a Producer-Consumer multi-threaded Java program.
 
 Introduction
@@ -31,4 +32,7 @@ Note that you need to protect the critical section of each of the operations. So
 2.3 Creating threads
 
 Once you have implemented your producer and consumer functions, you have to create producer and consumer threads in your program. Do this in main(). Note: your program should take one argument: the number of consumer threads to create.
-  
+
+## Solution
+
+
