@@ -44,8 +44,9 @@ The <b>IntProducerConsumer</b> Java program is designed to fulfill the specified
 javac IntProducerConsumer.java
 ```
 ### Command to run the java program.
+
 ```bash
-java IntProducerConsumer 2 3
+java IntProducerConsumer <numOfConsumers> <totalValues> 
 ```
 
 ## Results
