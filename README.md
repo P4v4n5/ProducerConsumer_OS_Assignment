@@ -56,15 +56,19 @@ The integers are printed in the same order as the producers produced the integer
 Refer the below screenshots for the actual output flow. 
 
 Output 1:
+
 ![Example Image](ProducerConsumer_Output1.jpeg)
 
 Output 2:
+
 ![Example Image](ProducerConsumer_Output2.jpeg)
 
 Output 3:
+
 ![Example Image](ProducerConsumer_Output3.jpeg)
 
 Output 4:
+
 ![Example Image](ProducerConsumer_Output4.jpeg)
 
 
