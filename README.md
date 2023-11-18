@@ -1,3 +1,2 @@
-# ProducerConsumer_OS_Assignment
-# COEN 283 Assignment 1
+# ProducerConsumer_OS_Assignment - COEN 283 HomeWork 2
   
