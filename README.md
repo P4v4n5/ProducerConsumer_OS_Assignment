@@ -1,6 +1,6 @@
 # ProducerConsumer_OS_Assignment - COEN 283 HomeWork 2
 
-## Name: Pavan Kumar Srinivasulu <br> ID
+## Name: Pavan Kumar Srinivasulu <br> Student ID: 07700005991 <br> Email: psrinivasulu@scu.edu
 
 ## Question
 Write a Producer-Consumer multi-threaded Java program.
@@ -47,4 +47,15 @@ javac IntProducerConsumer.java
 ```bash
 java IntProducerConsumer 2 3
 ```
+
+## Results
+
+In what order were the integers printed?
+The integers are printed in the same order as the producers produced the integers, then several consumer consmes it.
+
+Refer the below screenshots for the actual output flow. 
+
+![Example Image](ProducerConsumer_Output1.jpeg)
+
+
 
