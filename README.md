@@ -49,6 +49,10 @@ javac IntProducerConsumer.java
 java IntProducerConsumer <numOfConsumers> <totalValues> 
 ```
 
+## Consideration
+
+Although the specifications mentioned above in the question asks us to consider the maximum value via the command line and a single parameter in the main function for the number of consumers, it's bit unclear. Hence, I've opted to accommodate both values as inputs from the command line for clarity and completeness in the program's execution.
+
 ## Results
 
 <b>In what order were the integers printed?</b><br>
