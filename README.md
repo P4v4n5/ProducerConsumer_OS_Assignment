@@ -72,8 +72,7 @@ Output 4:
 
 ![Example Image](ProducerConsumer_Output4.jpeg) <br>
 
-Watch the demo here
-![Example Image]([Demo_Video_HW2_Pavan Kumar Srinivasulu.mp4](https://youtu.be/KNwgiY0BpwY))
+Watch the demo ([here4](https://youtu.be/KNwgiY0BpwY))
 
 ## Discussion
 
