@@ -38,3 +38,11 @@ Once you have implemented your producer and consumer functions, you have to crea
 IntProducerConsumer is written that actually function according to the above asked requirement. Basically, a Producer thread will produces integers according to the buffer size and the Max value provided in the command line. Then the consumer consume each of them after the producer has produced the integers till the buffer gets emptied. 
 
 
+```bash
+cd $WORKSPACE/customer-success-tools
+$(aws ecr get-login --no-include-email --region us-west-2)
+docker build -t sumocs/skilljar-to-be -f skilljar-to-be/Dockerfile .
+docker tag sumocs/skilljar-to-be:latest 795399174748.dkr.ecr.us-west-2.amazonaws.com/sumocs/skilljar-to-be:latest
+docker push 795399174748.dkr.ecr.us-west-2.amazonaws.com/sumocs/skilljar-to-be:latest
+```
+
