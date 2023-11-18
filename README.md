@@ -57,19 +57,19 @@ Refer the below screenshots for the actual output flow.
 
 Output 1:
 
-![Example Image](ProducerConsumer_Output1.jpeg)
+![Example Image](ProducerConsumer_Output1.jpeg) <br>
 
 Output 2:
 
-![Example Image](ProducerConsumer_Output2.jpeg)
+![Example Image](ProducerConsumer_Output2.jpeg) <br>
 
 Output 3:
 
-![Example Image](ProducerConsumer_Output3.jpeg)
+![Example Image](ProducerConsumer_Output3.jpeg) <br>
 
 Output 4:
 
-![Example Image](ProducerConsumer_Output4.jpeg)
+![Example Image](ProducerConsumer_Output4.jpeg) <br>
 
 
 
