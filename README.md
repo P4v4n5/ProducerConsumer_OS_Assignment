@@ -37,7 +37,7 @@ Once you have implemented your producer and consumer functions, you have to crea
 
 ## Solution
 
-IntProducerConsumer is written that actually function according to the above asked requirement. Basically, a Producer thread will produces integers according to the buffer size and the Max value provided in the command line. Then the consumer consume each of them after the producer has produced the integers till the buffer gets emptied. 
+The <b>IntProducerConsumer</b> Java program is designed to fulfill the specified requirements. It operates with a Producer thread responsible for generating integers based on the buffer size and the maximum value provided via the command line. Subsequently, Consumer threads consume these integers once they've been produced, continuing consumption until the buffer is empty. 
 
 ### Command to compile the java program.
 ```bash
