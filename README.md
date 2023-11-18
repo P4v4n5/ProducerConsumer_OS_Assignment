@@ -72,6 +72,9 @@ Output 4:
 
 ![Example Image](ProducerConsumer_Output4.jpeg) <br>
 
+Watch the demo here
+![Example Image](Demo_Video_HW2_Pavan Kumar Srinivasulu.mp4)
+
 ## Discussion
 
 <b>(1) How many of each integer should you see printed?</b><br>
