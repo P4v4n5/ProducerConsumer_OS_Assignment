@@ -39,10 +39,10 @@ IntProducerConsumer is written that actually function according to the above ask
 
 
 ```bash
-cd $WORKSPACE/customer-success-tools
-$(aws ecr get-login --no-include-email --region us-west-2)
-docker build -t sumocs/skilljar-to-be -f skilljar-to-be/Dockerfile .
-docker tag sumocs/skilljar-to-be:latest 795399174748.dkr.ecr.us-west-2.amazonaws.com/sumocs/skilljar-to-be:latest
-docker push 795399174748.dkr.ecr.us-west-2.amazonaws.com/sumocs/skilljar-to-be:latest
+javac IntProducerConsumer.java
+```
+
+```bash
+java IntProducerConsumer 2 3
 ```
 
